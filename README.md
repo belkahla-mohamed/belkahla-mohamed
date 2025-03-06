@@ -1,5 +1,13 @@
-# 💫 About Me:
-💻 Développeur Full Stack en formation | React.js, Laravel, Node.js<br>🚀 Passionné par le développement web et les nouvelles technologies<br>🎯 Objectif : maîtriser les stacks modernes et créer des applications performantes
+# 👋 Hi, I'm Mohamed El Kahlaw!
+
+## 💫 About Me
+- 🔭 I’m a **Full-Stack Developer**  
+- 🚀 Passionate about **new technologies, coding, and innovation**  
+- 🌍 Based in **Casablanca, Morocco**  
+- 🎓 Currently **studying and training to become a professional developer**  
+- 💡 Learning **React, Laravel, Node.js, Tailwind, Bootstrap, MongoDB**  
+- 💼 Dreaming of **working at NASA** one day! 🚀  
+- ⚡ Hobbies: **Programming, football, rap music, and Japanese culture**
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/belkahla_officiel) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-belkahla) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dev.mohamedbelkahla@gmail.com) [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/29907819/mohamed-belkahla)
