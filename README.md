@@ -1,7 +1,5 @@
-<img align="right" alt="Coding" width="400" src="https://giphy.com/stickers/hacktiv8-code-programming-programmer-lP8xu5t2DLGG045H8F">
 # 💫 About Me:
 💻 Développeur Full Stack en formation | React.js, Laravel, Node.js<br>🚀 Passionné par le développement web et les nouvelles technologies<br>🎯 Objectif : maîtriser les stacks modernes et créer des applications performantes
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/belkahla_officiel) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-belkahla) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dev.mohamedbelkahla@gmail.com) 
