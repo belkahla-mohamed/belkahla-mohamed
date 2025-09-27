@@ -35,11 +35,11 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Mouadlamsila/Mouadlamsila/github-breakout/images/breakout-dark.svg"
+    srcset="https://raw.githubusercontent.com/belkahla-mohamed/belkahla-mohamed/github-breakout/images/breakout-dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Mouadlamsila/Mouadlamsila/github-breakout/images/breakout-light.svg"
+    srcset="https://raw.githubusercontent.com/belkahla-mohamed/belkahla-mohamed/github-breakout/images/breakout-light.svg"
   />
-  <img alt="Breakout Game" src="https://raw.githubusercontent.com/Mouadlamsila/Mouadlamsila/github-breakout/images/breakout-light.svg" />
+  <img alt="Breakout Game" src="https://raw.githubusercontent.com/belkahla-mohamed/belkahla-mohamed/github-breakout/images/breakout-light.svg" />
 </picture>
